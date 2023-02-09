@@ -1,0 +1,27 @@
+.navbar_container{
+    background-color: black;
+    color:whitesmoke;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar_left{
+    font-size: 26px;
+    font-weight: 700;
+    color:rgb(218, 157, 157);
+    padding-left: 15px;
+}
+.navbar_right{
+    display: flex;
+}
+.navbar_right > p{
+
+margin-right: 10px;
+padding: 8px 10px;
+font-size: 20px;
+}
+.navbar_right > p:hover{
+    background-color:rgb(233, 35, 35);
+    cursor: pointer;
+    border-radius: 8px;
+}
