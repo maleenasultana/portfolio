@@ -40,11 +40,11 @@ function Homepage() {
                </div>
               
                <span>
-                <a href="https://github.com/maleenasultana" target="_blank">
+                <a href="https://github.com/maleenasultana" target="">
                     <img className='icon1' src='https://img.icons8.com/3d-fluency/94/null/github.png' alt="my github page"/>
                 </a></span>
                 <span>
-                <a href="https://www.linkedin.com/in/maleena-sultana-6519a824a/" target="_blank">
+                <a href="https://www.linkedin.com/in/maleena-sultana-6519a824a/" target="">
                     <img className="icon2"src='https://img.icons8.com/clouds/100/null/linkedin.png' alt='my linkedin page'/>
                 </a></span>
              </div>

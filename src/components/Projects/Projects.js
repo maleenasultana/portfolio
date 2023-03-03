@@ -5,11 +5,11 @@ function Projects() {
     <div className="projects_container">
       <div className="project1">
         <h3>project 1</h3>
-        <a href="https://webmal.netlify.app/" target="_blank">
+        <a href="https://webmal.netlify.app/" target="">
           <img
             className="ecomm-img"
             src="https://th.bing.com/th?id=OIP.LbWj8r52NjMD18EBNk2kYQHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2"
-            alt="image"
+            alt="..."
           />
         </a>
         <p>
@@ -31,11 +31,11 @@ function Projects() {
       <hr />
       <div className="">
         <h3>Project 2</h3>
-        <a href="https://crmm-app.netlify.app" target="_blank">
+        <a href="https://crmm-app.netlify.app" target="">
           <img
             className="crm-img"
             src="https://th.bing.com/th/id/OIP.NSDd5NXcrB4WlG1RlMJ5zQHaHa?w=187&h=187&c=7&r=0&o=5&pid=1.7"
-            alt="image"
+            alt="..."
           />
         </a>
         <p>
@@ -63,11 +63,11 @@ function Projects() {
       </div><hr/>
       <div className="">
         <h3>Project 3</h3>
-        <a href="https://mo-viebooking.netlify.app/" target="_blank">
+        <a href="https://mo-viebooking.netlify.app/" target="">
           <img
             className="crm-img"
             src="https://th.bing.com/th/id/OIP.Et0sijTReZAO8yv5U2DwSQHaE8?w=276&h=184&c=7&r=0&o=5&pid=1.7"
-            alt="image"
+            alt="..."
           />
         </a>
         <p>The movie booking app project aims to create a mobile application that allows users to browse and book movie tickets conveniently and securely. The application will enable users to search for movies, view showtimes and theater locations, select seats, and make payments using a variety of payment methods.</p>
@@ -75,7 +75,7 @@ function Projects() {
         <p>the movie booking app project aims to provide users with a convenient and reliable way to book movie tickets, ultimately driving revenue and growth for movie theaters and studios. The app also aims to provide users with a personalized and engaging movie-going experience, encouraging them to return for future bookings and recommendations.</p>
       </div>
       <div>
-          <marquee><h3>Other projects :- Digital NoteBook----Book Finder App----News App----Restaurant App---- Democratic App----ola clone ---- Delivery Service App ---- Students In Range---- Hiring App---- weather App ----etc.</h3></marquee>
+          <h3>Other projects :- Digital NoteBook----<br/>Book Finder App---<br/>News App----<br/>Restaurant App----<br/> Democratic App----<br/>ola clone ----<br/> Delivery Service App ----<br/> Students In Range---- <br/>Hiring App----<br/> weather App ----etc.</h3>
     </div>
     </div>
     

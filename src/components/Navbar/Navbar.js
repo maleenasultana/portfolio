@@ -1,4 +1,4 @@
-import Resume from "../Resume";
+
 import {Link } from 'react-router-dom'
 import "./Navbar.css";
 
