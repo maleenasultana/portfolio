@@ -64,11 +64,7 @@ function Techstack() {
             iconImage:"https://th.bing.com/th/id/OIP.95qTmeGI_OjwxWZF7q_jOAAAAA?w=251&h=180&c=7&r=0&o=5&pid=1.7",
             iconAltProp:"Redux icon"
         },
-        {
-            iconName:"React Native",
-            iconImage:"https://th.bing.com/th/id/OIP.0BtCst5oLhSYYnWEhbVM-AHaEb?w=256&h=180&c=7&r=0&o=5&pid=1.7",
-            iconAltProp:"react native icon"
-        }
+        
     ]
   return (
     <div className='techstack_container'>

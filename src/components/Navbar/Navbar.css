@@ -1,5 +1,5 @@
 .navbar_container{
-    background-color: black;
+    background-color:lightblue;
     color:whitesmoke;
     display:flex;
     align-items: center;
@@ -8,7 +8,7 @@
 .navbar_left{
     font-size: 26px;
     font-weight: 700;
-    color:rgb(218, 157, 157);
+    color:rgb(77, 156, 230);
     padding-left: 15px;
 }
 .navbar_right{
@@ -24,4 +24,8 @@ font-size: 20px;
     background-color:rgb(233, 35, 35);
     cursor: pointer;
     border-radius: 8px;
+
+}
+.navbar-brand-link{
+    text-decoration: none;
 }

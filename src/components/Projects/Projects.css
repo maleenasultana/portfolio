@@ -1,4 +1,13 @@
 .projects_container{
     margin: 5px;
+    background-color: azure;
     
+}
+.p1{
+    color:rgb(19, 19, 77)
+}
+.ecomm-img{
+   margin-left: 50%;
+    height:300px;
+    width: 1200px;
 }

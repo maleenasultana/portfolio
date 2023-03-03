@@ -1,12 +1,14 @@
 .techstack_container{
-    height:80vh;
+    height:100vh;
     background-color: rgb(222, 233, 160);
 }
 
 .techstack_title{
     margin-top: 15px;
     padding-top: 5px;
-    font-size: 40px;
+    font-size: 20px;
+    text-decoration: underline;
+    background-image: linear-gradient(rgb(223, 139, 153),rgb(119, 119, 153));
     font-weight: 500;
     text-align: center;
 }
