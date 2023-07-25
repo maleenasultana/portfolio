@@ -13,11 +13,14 @@ function Resume() {
 Address: 12-2-790/509, Jahandar Towers, Mehdipatnam, Hyderabad-500028
  </p><hr/>
  <h2>Education :-</h2>
-  <p>•	Osmania University,  B.com
-Graduated from princess Shahkar College affiliated to Osmania University in the First division.<br/>
-•	Computer application Diploma from Women's College Osmania University.<br/>
-•	Full Stack Development, Relevel -by Unacademy
-               March-2022 – Feb-2023
+  <p>
+  •	Full Stack Development, Relevel -by Unacademy
+               March-2022 – Feb-2023•	<br/>
+  •	PGDCA <p>Computer application Diploma from Women's College Osmania University.</p><br/>       
+  • Osmania University,  B.com
+    Graduated from princess Shahkar College affiliated to Osmania University in the First division.<br/>
+ 
+
 </p><hr/>
 <h2>Skills :-</h2>
 <p>
@@ -25,7 +28,8 @@ Graduated from princess Shahkar College affiliated to Osmania University in the 
 ⁕ NodeJS 	,	  ⁕ ExpressJS , ⁕	MySQL2,
 ⁕ MongoDB ,	⁕ Mongoose  ,	⁕ vs. code,
 ⁕ Bootstrap , ⁕ Material UI ,	⁕ Git & Git-Hub,
-⁕ Sequelize	, ⁕ ReactJS.
+⁕ Sequelize	, ⁕ ReactJS, *React-Native, *Figma.
+*Beginner level - Python, AngularJS.
 </p><hr/>
 <h2>Projects & Experience</h2>
 <p><h4>E-Commerce Website (Building & Deployment)</h4>
