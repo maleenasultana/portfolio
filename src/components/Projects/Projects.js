@@ -31,7 +31,7 @@ function Projects() {
       <hr />
       <div className="">
         <h3>Project 2</h3>
-        <a href="" target="">
+        <a href="https://crmfrontend.onrender.com" target="">
           <img
             className="crm-img"
             src="https://th.bing.com/th/id/OIP.NSDd5NXcrB4WlG1RlMJ5zQHaHa?w=187&h=187&c=7&r=0&o=5&pid=1.7"
@@ -63,7 +63,7 @@ function Projects() {
       </div><hr/>
       <div className="">
         <h3>Project 3</h3>
-        <a href="" target="">
+        <a href="https://mba-frontend.onrender.com" target="">
           <img
             className="crm-img"
             src="https://th.bing.com/th/id/OIP.Et0sijTReZAO8yv5U2DwSQHaE8?w=276&h=184&c=7&r=0&o=5&pid=1.7"

@@ -64,8 +64,42 @@ function Techstack() {
             iconImage:"https://th.bing.com/th/id/OIP.95qTmeGI_OjwxWZF7q_jOAAAAA?w=251&h=180&c=7&r=0&o=5&pid=1.7",
             iconAltProp:"Redux icon"
         },
+        {
+            iconName: "Figma",
+            iconImage: "https://www.bing.com/th?id=OIP.6zxlNVsqR_UzXWUnZND4DQHaDt&w=217&h=106&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+            iconAltProp: "Figma icon"
+        }
         
-    ]
+    ];
+    const techIcons3 =[
+        {
+            iconName: "AWS",
+            iconImage: "https://th.bing.com/th/id/OIP.S-9EjIzAEYqbP1oktJVc5wHaEw?w=247&h=180&c=7&r=0&o=5&pid=1.7",
+            iconAltProp: "AWS icon"
+        },
+        
+        {
+            iconName: "React-Native(beginners)",
+            iconImage: "https://www.bing.com/th?id=OIP.X0lQPk0QnmYgT_T9yW64NwHaEK&w=174&h=100&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+            iconAltProp: "React-Native icon"
+        },
+        {
+            iconName: "PHP(beginners)",
+            iconImage: "https://th.bing.com/th/id/OIP.keXdU0niago_p005Q8JpnAHaEc?w=314&h=188&c=7&r=0&o=5&pid=1.7",
+            iconAltProp: "PHP icon"
+        },
+       
+        {
+            iconName: "Python(Beginners)",
+            iconImage: "https://th.bing.com/th/id/OIP.bB6uSUI832aC8L0qzyCAlgHaHa?w=180&h=180&c=7&r=0&o=5&pid=1.7",
+            iconAltProp: "Python icon"
+        },
+        {
+            iconName: "AngularJS(Beginners)",
+            iconImage: "https://th.bing.com/th/id/OIP.ES1oqWvBEp-UgN6_QRFFVAHaFG?w=219&h=180&c=7&r=0&o=5&pid=1.7",
+            iconAltProp:"AngularJS icon"
+        }
+    ];
   return (
     <div className='techstack_container'>
         <p className='techstack_title'>Tech Stack</p>
@@ -97,7 +131,20 @@ function Techstack() {
             }
            
         </div>
-
+        <div className='techstack_icon_container'>
+            {
+              techIcons3.map((item, index) => {
+                return (
+                    <TechStackIconContainer
+                    image ={item.iconImage}
+                    altProperty ={item.iconAltProp}
+                    name={item.iconName}
+                    />
+                )
+              })  
+            }
+           
+        </div>
     </div>
   )
 }
