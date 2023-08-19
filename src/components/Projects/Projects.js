@@ -32,7 +32,8 @@ function Projects() {
       <hr />
       <div className="">
         <h3>Project 2</h3>
-        <a href="https://gforms-frontend.onrender.com" target="">
+        {/* https://gforms-frontend.onrender.com" */}
+        <a href="" target="">
           <img
             className="crm-img"
             src="https://th.bing.com/th?id=OIP.Z_3iHnVHP7rdg7npd3gieQHaFS&w=295&h=211&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2"
@@ -63,7 +64,8 @@ function Projects() {
       </div>
       <div className="">
         <h3>Project 3</h3>
-        <a href="https://crmfrontend.onrender.com" target="">
+        {/* https://crmfrontend.onrender.com */}
+        <a href="" target="">
           <img
             className="crm-img"
             src="https://th.bing.com/th/id/OIP.NSDd5NXcrB4WlG1RlMJ5zQHaHa?w=187&h=187&c=7&r=0&o=5&pid=1.7"
@@ -95,8 +97,9 @@ function Projects() {
       </div>
       <hr />
       <div className="">
-        <h3>Project 3</h3>
-        <a href="https://mba-frontend.onrender.com" target="">
+        <h3>Project 4</h3>
+        {/* https://mba-frontend.onrender.com */}
+        <a href="" target="">
           <img
             className="crm-img"
             src="https://th.bing.com/th/id/OIP.Et0sijTReZAO8yv5U2DwSQHaE8?w=276&h=184&c=7&r=0&o=5&pid=1.7"
