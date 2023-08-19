@@ -52,9 +52,7 @@ Other Project: - Digital Notes, Restaurant App, Library App etc.
 <p><a href="https://www.linkedin.com/in/maleena-sultana-6519a824a/">linkedin</a> </p>
 <p><a href="https://leetcode.com/Maleena/">Leetcode</a> </p>
 <p><a href="https://www.hackerrank.com/maleena_sohail/hackos">HackerRank</a> </p>
-<p><a href=" https://webmal.netlify.app/">E-commerce</a> </p>
-<p><a href="https://crmm-app.netlify.app">Crm App</a> </p>
-<p><a href="https://mo-viebooking.netlify.app/">Movie Booking App</a></p>
+
 
 </div>
 <div>

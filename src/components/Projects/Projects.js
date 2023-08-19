@@ -19,9 +19,9 @@ function Projects() {
           various products and services, compare prices and features, and make
           purchases securely using a variety of payment methods.
         </p>
-        
+
         <p>
-          This project includes  features such as user registration and login,
+          This project includes features such as user registration and login,
           product catalog, shopping cart, checkout, payment gateway integration,
           order management, and customer support. The platform will be designed
           to be responsive and user-friendly, allowing customers to easily
@@ -29,8 +29,40 @@ function Projects() {
         </p>
       </div>
       <hr />
+      <hr />
       <div className="">
         <h3>Project 2</h3>
+        <a href="https://gforms-frontend.onrender.com" target="">
+          <img
+            className="crm-img"
+            src="https://th.bing.com/th?id=OIP.Z_3iHnVHP7rdg7npd3gieQHaFS&w=295&h=211&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2"
+            alt="..."
+          />
+        </a>
+        <p>
+          Easy-to-create surveys and forms for everyone Create custom forms for
+          surveys and questionnaires at no extra cost. Gather everything in a
+          spreadsheet and analyse data directly in Google Sheets.
+        </p>
+
+        <p>
+          Select from multiple question types, drag-and-drop to reorder
+          questions and customise values as easily as pasting a list.
+        </p>
+
+        <p>
+          Well-designed surveys help you connect with customers to gain valuable
+          insights. Add images, videos, and custom logic to give people who
+          respond a great survey experience.
+        </p>
+        <p>
+          It's easy to share forms to specific people or to a broad audience by
+          embeding forms on your website or sharing via Currents, Facebook or
+          Twitter.
+        </p>
+      </div>
+      <div className="">
+        <h3>Project 3</h3>
         <a href="https://crmfrontend.onrender.com" target="">
           <img
             className="crm-img"
@@ -60,7 +92,8 @@ function Projects() {
           and workflows. The app will also be secure and scalable, ensuring that
           it can handle a large volume of data and users.
         </p>
-      </div><hr/>
+      </div>
+      <hr />
       <div className="">
         <h3>Project 3</h3>
         <a href="https://mba-frontend.onrender.com" target="">
@@ -70,15 +103,48 @@ function Projects() {
             alt="..."
           />
         </a>
-        <p>The movie booking app project aims to create a mobile application that allows users to browse and book movie tickets conveniently and securely. The application will enable users to search for movies, view showtimes and theater locations, select seats, and make payments using a variety of payment methods.</p>
-        <p>This project includes features such as user registration and login, movie and theater information, showtime and seat selection, payment gateway integration, booking confirmation, and user feedback and ratings. The app will also be designed to be user-friendly, allowing users to easily navigate through the app and find what they're looking for.</p>
-        <p>the movie booking app project aims to provide users with a convenient and reliable way to book movie tickets, ultimately driving revenue and growth for movie theaters and studios. The app also aims to provide users with a personalized and engaging movie-going experience, encouraging them to return for future bookings and recommendations.</p>
+        <p>
+          The movie booking app project aims to create a mobile application that
+          allows users to browse and book movie tickets conveniently and
+          securely. The application will enable users to search for movies, view
+          showtimes and theater locations, select seats, and make payments using
+          a variety of payment methods.
+        </p>
+        <p>
+          This project includes features such as user registration and login,
+          movie and theater information, showtime and seat selection, payment
+          gateway integration, booking confirmation, and user feedback and
+          ratings. The app will also be designed to be user-friendly, allowing
+          users to easily navigate through the app and find what they're looking
+          for.
+        </p>
+        <p>
+          the movie booking app project aims to provide users with a convenient
+          and reliable way to book movie tickets, ultimately driving revenue and
+          growth for movie theaters and studios. The app also aims to provide
+          users with a personalized and engaging movie-going experience,
+          encouraging them to return for future bookings and recommendations.
+        </p>
       </div>
       <div>
-          <h3>Other projects :- Digital NoteBook----<br/>Book Finder App---<br/>News App----<br/>Restaurant App----<br/> Democratic App----<br/>ola clone ----<br/> Delivery Service App ----<br/> Students In Range---- <br/>Hiring App----<br/> weather App ----etc.</h3>
+        <h3>
+          Other projects :- Digital NoteBook----
+          <br />
+          Book Finder App---
+          <br />
+          News App----
+          <br />
+          Restaurant App----
+          <br /> Democratic App----
+          <br />
+          ola clone ----
+          <br /> Delivery Service App ----
+          <br /> Students In Range---- <br />
+          Hiring App----
+          <br /> weather App ----etc.
+        </h3>
+      </div>
     </div>
-    </div>
-    
   );
 }
 
